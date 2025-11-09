@@ -1,8 +1,8 @@
-![KRTMI UNEJ](https://github.com/KRTMI-UNEJ/.github/blob/main/main/images/reiver.jpg)
+![REIVER UNEJ](https://github.com/KRTMI-UNEJ/.github/blob/main/main/images/reiver.jpg)
 
-# KRTMI UNEJ — Project Space
+# REIVER UNEJ — Project Space
 
-KRTMI UNEJ adalah salah satu divisi pengembang robotika yang berfokus pada inovasi, kolaborasi, dan penelitian teknologi.  
+REIVER UNEJ adalah salah satu divisi pengembang robotika yang berfokus pada inovasi, kolaborasi, dan penelitian teknologi.  
 Organisasi ini menjadi ruang terbuka bagi anggota untuk mempelajari, mengembangkan, dan mempublikasikan berbagai proyek robotika secara sistematis dan terstruktur.
 
 Proyek-proyek yang dikembangkan meliputi robot pemilah sampah, robot beroda omni, sistem penggerak cerdas, sensorik, dan teknologi pendukung lainnya.  
@@ -12,7 +12,7 @@ Setiap anggota berkontribusi pada pengembangan dengan mengutamakan prinsip keter
 
 ## Lingkup Kegiatan
 
-KRTMI UNEJ beraktivitas di bidang:
+REIVER UNEJ beraktivitas di bidang:
 
 - Riset teknologi robotika dan otomasi.  
 - Pengembangan perangkat keras seperti sistem kontrol, aktuator, dan sensor.  
@@ -89,4 +89,4 @@ Silakan merujuk pada berkas LICENSE pada masing-masing repositori.
 
 ---
 
-KRTMI UNEJ berkomitmen untuk menjadi ruang pembelajaran robotika yang terbuka, profesional, dan berkembang untuk seluruh anggotanya.
+REIVER UNEJ berkomitmen untuk menjadi ruang pembelajaran robotika yang terbuka, profesional, dan berkembang untuk seluruh anggotanya.
